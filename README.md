@@ -1,84 +1,190 @@
-# 🌐 Web-Dev-Journey
+# 🌐 Web Development Journey
 
-A personal log of my web development learning journey — from absolute beginner to building real projects. This repo tracks everything I learn, build, and break along the way.
+<div align="center">
 
----
+# 🚀 Web Development Journey
 
-## 👋 About This Repo
-
-I started this repository to document my progress as I learn web development from scratch. Every folder, file, and commit here represents something I've actually worked through — not just read about.
-
-If you're on a similar path, feel free to explore, get inspired, or even learn alongside me!
+### Learning • Building • Improving • Growing
 
 ---
 
-## 🗺️ Learning Roadmap
+*"Every expert was once a beginner."* ✨
 
-### Phase 1 — The Foundations
-- [ ] HTML basics (structure, tags, forms)
-- [ ] CSS basics (selectors, box model, colors)
-- [ ] Responsive design (Flexbox, Grid, media queries)
-
-### Phase 2 — Making Things Interactive
-- [ ] JavaScript fundamentals (variables, functions, loops)
-- [ ] DOM manipulation
-- [ ] Events and user interaction
-
-### Phase 3 — Going Deeper
-- [ ] ES6+ features (arrow functions, promises, async/await)
-- [ ] Fetch API & working with APIs
-- [ ] Version control with Git & GitHub
-
-### Phase 4 — Frameworks & Beyond
-- [ ] React (or another frontend framework)
-- [ ] Node.js & basic backend concepts
-- [ ] Deploying projects to the web
+</div>
 
 ---
 
-## 📁 Folder Structure
+# 📖 About
 
-```
+Welcome to my **Web Development Journey** repository!
+
+This repository contains everything I learn while exploring the world of **Web Development**. From the basics of HTML to full-stack development, I'll be documenting my progress, practicing concepts, and building projects along the way.
+
+The goal of this repository is to:
+
+* 📚 Keep all my learning organized
+* 💻 Practice every concept with code
+* 🚀 Build projects to improve my skills
+* 📈 Track my progress consistently
+
+---
+
+# 🛠️ Tech Stack
+
+* 🌐 HTML
+* 🎨 CSS
+* ⚡ JavaScript
+* 🅱️ Bootstrap
+* 💨 Tailwind CSS
+* ⚛️ React
+* 🟢 Node.js
+* 🚂 Express.js
+* 🍃 MongoDB
+
+---
+
+# 📂 Repository Structure
+
+```text
 Web-Dev-Journey/
 │
-├── html/           # HTML practice files and mini projects
-├── css/            # Styling exercises and layouts
-├── javascript/     # JS concepts and challenges
-├── projects/       # Full mini-projects combining everything
-└── notes/          # Personal notes and cheat sheets
+├── 01-HTML/
+├── 02-CSS/
+├── 03-JavaScript/
+├── 04-Bootstrap/
+├── 05-Tailwind/
+├── 06-React/
+├── 07-NodeJS/
+├── 08-Express/
+├── 09-MongoDB/
+│
+├── Projects/
+├── Notes/
+│
+├── README.md
+└── .gitignore
 ```
 
-> Structure will grow and evolve as I progress!
+---
+
+# 📅 Learning Progress
+
+## HTML
+
+* [ ] Basic Structure
+* [ ] Headings
+* [ ] Paragraphs
+* [ ] Formatting
+* [ ] Links
+* [ ] Images
+* [ ] Tables
+* [ ] Lists
+* [ ] Forms
+* [ ] Semantic Tags
+
+## CSS
+
+* [ ] Selectors
+* [ ] Colors
+* [ ] Fonts
+* [ ] Box Model
+* [ ] Display
+* [ ] Position
+* [ ] Flexbox
+* [ ] Grid
+* [ ] Animations
+* [ ] Responsive Design
+
+## JavaScript
+
+* [ ] Variables
+* [ ] Data Types
+* [ ] Operators
+* [ ] Functions
+* [ ] Loops
+* [ ] Arrays
+* [ ] Objects
+* [ ] DOM
+* [ ] Events
+* [ ] Async JavaScript
+
+## Frontend
+
+* [ ] Bootstrap
+* [ ] Tailwind CSS
+* [ ] React
+
+## Backend
+
+* [ ] Node.js
+* [ ] Express.js
+* [ ] MongoDB
 
 ---
 
-## 🚀 Projects Built
+# 📁 Projects
 
-| # | Project | Tech Used | Live Demo |
-|---|---------|-----------|-----------|
-| - | *(coming soon)* | - | - |
-
----
-
-## 📚 Resources I'm Using
-
-- [MDN Web Docs](https://developer.mozilla.org/)
-- [The Odin Project](https://www.theodinproject.com/)
-- [freeCodeCamp](https://www.freecodecamp.org/)
-- [CSS-Tricks](https://css-tricks.com/)
+| Project            | Status |
+| ------------------ | ------ |
+| Portfolio Website  | ⏳      |
+| Calculator         | ⏳      |
+| Weather App        | ⏳      |
+| Todo App           | ⏳      |
+| Blog Website       | ⏳      |
+| E-Commerce Website | ⏳      |
 
 ---
 
-## 💡 Why I'm Doing This
+# 🎯 Goals
 
-Learning in public keeps me accountable. By committing my progress here, I can look back and see how far I've come — and so can anyone else who might find this useful.
-
----
-
-## 📬 Connect
-
-Feel free to open an issue, drop a star ⭐, or just say hi if you're on the same journey!
+* Learn Web Development from scratch.
+* Build strong frontend skills.
+* Learn backend development.
+* Build real-world projects.
+* Become a Full Stack Web Developer.
 
 ---
 
-*Started: 2026 | Status: 🟢 Actively Learning*
+# 📈 Progress Tracker
+
+```
+HTML         ░░░░░░░░░░ 5%
+
+CSS          ░░░░░░░░░░ 2%
+
+JavaScript   ░░░░░░░░░░ 2%
+
+React        ░░░░░░░░░░ 0%
+
+Node.js      ░░░░░░░░░░ 0%
+
+MongoDB      ░░░░░░░░░░ 0%
+```
+
+*(I'll update this as I continue learning.)*
+
+---
+
+# ⭐ Daily Routine
+
+* 📖 Learn new concepts
+* 💻 Practice code
+* 📝 Write notes
+* 🚀 Push progress to GitHub
+* 🔁 Revise previous topics
+
+---
+
+# 📜 License
+
+This repository is created for learning purposes.
+
+---
+
+<div align="center">
+
+### ⭐ Thanks for visiting my Web Development Journey!
+
+**Happy Coding! 🚀**
+
+</div>
