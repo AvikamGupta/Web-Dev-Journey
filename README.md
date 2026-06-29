@@ -1,190 +1,216 @@
 # 🌐 Web Development Journey
 
-<div align="center">
+> **Learning • Building • Improving • Shipping 🚀**
 
-# 🚀 Web Development Journey
+Welcome to my **Web Development Journey** repository.
 
-### Learning • Building • Improving • Growing
+This repository contains all the code, notes, mini-projects, and practice files that I create while learning **Full Stack Web Development** through the **Sigma Web Development Course by CodeWithHarry**.
 
----
-
-*"Every expert was once a beginner."* ✨
-
-</div>
-
----
-
-# 📖 About
-
-Welcome to my **Web Development Journey** repository!
-
-This repository contains everything I learn while exploring the world of **Web Development**. From the basics of HTML to full-stack development, I'll be documenting my progress, practicing concepts, and building projects along the way.
-
-The goal of this repository is to:
-
-* 📚 Keep all my learning organized
-* 💻 Practice every concept with code
-* 🚀 Build projects to improve my skills
-* 📈 Track my progress consistently
-
----
-
-# 🛠️ Tech Stack
-
-* 🌐 HTML
-* 🎨 CSS
-* ⚡ JavaScript
-* 🅱️ Bootstrap
-* 💨 Tailwind CSS
-* ⚛️ React
-* 🟢 Node.js
-* 🚂 Express.js
-* 🍃 MongoDB
+The goal is not just to complete the course but to build a strong understanding of web technologies by writing clean code, maintaining structured notes, and creating real-world projects.
 
 ---
 
 # 📂 Repository Structure
 
-```text
-Web-Dev-Journey/
-│
-├── 01-HTML/
-├── 02-CSS/
-├── 03-JavaScript/
-├── 04-Bootstrap/
-├── 05-Tailwind/
-├── 06-React/
-├── 07-NodeJS/
-├── 08-Express/
-├── 09-MongoDB/
-│
-├── Projects/
-├── Notes/
+```
+Web-Development/
 │
 ├── README.md
-└── .gitignore
+│
+├── 01_HTML/
+│   ├── index1.html
+│   ├── note1.md
+│   ├── index2.html
+│   ├── note2.md
+│   └── ...
+│
+├── 02_CSS/
+│
+├── 03_JavaScript/
+│
+├── 04_Bootstrap/
+│
+├── 05_React/
+│
+├── 06_NodeJS/
+│
+├── 07_Express/
+│
+├── 08_MongoDB/
+│
+├── 09_Projects/
+│
+└── Resources/
 ```
 
 ---
 
-# 📅 Learning Progress
+# 📖 Folder Naming Convention
 
-## HTML
+Each topic is stored inside its own folder.
 
-* [ ] Basic Structure
-* [ ] Headings
-* [ ] Paragraphs
-* [ ] Formatting
-* [ ] Links
-* [ ] Images
-* [ ] Tables
-* [ ] Lists
-* [ ] Forms
-* [ ] Semantic Tags
+Example:
 
-## CSS
-
-* [ ] Selectors
-* [ ] Colors
-* [ ] Fonts
-* [ ] Box Model
-* [ ] Display
-* [ ] Position
-* [ ] Flexbox
-* [ ] Grid
-* [ ] Animations
-* [ ] Responsive Design
-
-## JavaScript
-
-* [ ] Variables
-* [ ] Data Types
-* [ ] Operators
-* [ ] Functions
-* [ ] Loops
-* [ ] Arrays
-* [ ] Objects
-* [ ] DOM
-* [ ] Events
-* [ ] Async JavaScript
-
-## Frontend
-
-* [ ] Bootstrap
-* [ ] Tailwind CSS
-* [ ] React
-
-## Backend
-
-* [ ] Node.js
-* [ ] Express.js
-* [ ] MongoDB
+```
+01_HTML/
+02_CSS/
+03_JavaScript/
+04_Bootstrap/
+```
 
 ---
 
-# 📁 Projects
+# 📝 File Naming Convention
 
-| Project            | Status |
-| ------------------ | ------ |
-| Portfolio Website  | ⏳      |
-| Calculator         | ⏳      |
-| Weather App        | ⏳      |
-| Todo App           | ⏳      |
-| Blog Website       | ⏳      |
-| E-Commerce Website | ⏳      |
+For every lecture or concept:
+
+```
+index1.html
+style1.css
+script1.js
+note1.md
+```
+
+Next lecture:
+
+```
+index2.html
+style2.css
+script2.js
+note2.md
+```
+
+This keeps every lesson organized and easy to revisit.
+
+---
+
+# 📚 Notes
+
+Every concept has its own dedicated Markdown notes.
+
+Example:
+
+```
+note1.md
+note2.md
+note3.md
+```
+
+Each note contains:
+
+- 📌 Concept Explanation
+- 💡 Syntax
+- 🧠 Important Points
+- ⚠️ Common Mistakes
+- ✅ Best Practices
+- 🎯 Interview Questions
+- 🔥 Quick Revision
+
+---
+
+# 🚀 Learning Roadmap
+
+- [x] HTML Basics
+- [ ] CSS
+- [ ] Flexbox
+- [ ] Grid
+- [ ] Responsive Design
+- [ ] JavaScript
+- [ ] DOM
+- [ ] ES6+
+- [ ] Projects
+- [ ] Bootstrap
+- [ ] React
+- [ ] Node.js
+- [ ] Express.js
+- [ ] MongoDB
+- [ ] Full Stack Projects
 
 ---
 
 # 🎯 Goals
 
-* Learn Web Development from scratch.
-* Build strong frontend skills.
-* Learn backend development.
-* Build real-world projects.
-* Become a Full Stack Web Developer.
+- Learn Web Development from scratch.
+- Write clean and readable code.
+- Maintain high-quality notes.
+- Build real-world projects.
+- Strengthen problem-solving skills.
+- Upload progress regularly on GitHub.
 
 ---
 
-# 📈 Progress Tracker
+# 📌 Progress
+
+| Module | Status |
+|---------|--------|
+| HTML | 🟢 In Progress |
+| CSS | ⏳ Coming Soon |
+| JavaScript | ⏳ Coming Soon |
+| React | ⏳ Coming Soon |
+| Backend | ⏳ Coming Soon |
+| Projects | ⏳ Coming Soon |
+
+---
+
+# 💻 Technologies
+
+- HTML5
+- CSS3
+- JavaScript (ES6+)
+- Bootstrap
+- React
+- Node.js
+- Express.js
+- MongoDB
+- Git
+- GitHub
+- VS Code
+
+---
+
+# 📅 Updates
+
+This repository is updated regularly as I continue my learning journey.
+
+Every new lecture includes:
+
+- Source Code
+- Practice Files
+- Well-Structured Notes
+- Mini Projects (when applicable)
+
+---
+
+# ⭐ Why This Repository?
+
+This repository serves as my personal learning archive and documentation. It helps me:
+
+- Revise concepts quickly
+- Track learning progress
+- Organize code efficiently
+- Build a strong GitHub portfolio
+
+---
+
+# 📈 Current Status
 
 ```
-HTML         ░░░░░░░░░░ 5%
-
-CSS          ░░░░░░░░░░ 2%
-
-JavaScript   ░░░░░░░░░░ 2%
-
-React        ░░░░░░░░░░ 0%
-
-Node.js      ░░░░░░░░░░ 0%
-
-MongoDB      ░░░░░░░░░░ 0%
+HTML         ███░░░░░░░
+CSS          ░░░░░░░░░░
+JavaScript   ░░░░░░░░░░
+React        ░░░░░░░░░░
+Backend      ░░░░░░░░░░
+Projects     ░░░░░░░░░░
 ```
 
-*(I'll update this as I continue learning.)*
+---
+
+# 📬 Connect
+
+If you're also learning Web Development, feel free to explore the repository, learn together, and grow step by step.
 
 ---
 
-# ⭐ Daily Routine
+## ⭐ If you find this repository useful, consider giving it a Star!
 
-* 📖 Learn new concepts
-* 💻 Practice code
-* 📝 Write notes
-* 🚀 Push progress to GitHub
-* 🔁 Revise previous topics
-
----
-
-# 📜 License
-
-This repository is created for learning purposes.
-
----
-
-<div align="center">
-
-### ⭐ Thanks for visiting my Web Development Journey!
-
-**Happy Coding! 🚀**
-
-</div>
+Happy Coding! 🚀
