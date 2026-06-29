@@ -1,216 +1,190 @@
 # 🌐 Web Development Journey
 
-> **Learning • Building • Improving • Shipping 🚀**
+<div align="center">
 
-Welcome to my **Web Development Journey** repository.
+![HTML5](https://img.shields.io/badge/HTML5-Learning-orange?style=for-the-badge&logo=html5)
+![CSS3](https://img.shields.io/badge/CSS3-Learning-blue?style=for-the-badge&logo=css3)
+![JavaScript](https://img.shields.io/badge/JavaScript-Learning-yellow?style=for-the-badge&logo=javascript)
+![Status](https://img.shields.io/badge/Status-In%20Progress-success?style=for-the-badge)
+![Made With](https://img.shields.io/badge/Made%20With-VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode)
 
-This repository contains all the code, notes, mini-projects, and practice files that I create while learning **Full Stack Web Development** through the **Sigma Web Development Course by CodeWithHarry**.
+### 🚀 Documenting my complete Web Development journey from scratch.
 
-The goal is not just to complete the course but to build a strong understanding of web technologies by writing clean code, maintaining structured notes, and creating real-world projects.
+*"Code. Learn. Build. Repeat."*
 
----
-
-# 📂 Repository Structure
-
-```
-Web-Development/
-│
-├── README.md
-│
-├── 01_HTML/
-│   ├── index1.html
-│   ├── note1.md
-│   ├── index2.html
-│   ├── note2.md
-│   └── ...
-│
-├── 02_CSS/
-│
-├── 03_JavaScript/
-│
-├── 04_Bootstrap/
-│
-├── 05_React/
-│
-├── 06_NodeJS/
-│
-├── 07_Express/
-│
-├── 08_MongoDB/
-│
-├── 09_Projects/
-│
-└── Resources/
-```
+</div>
 
 ---
 
-# 📖 Folder Naming Convention
+# 📚 About
 
-Each topic is stored inside its own folder.
+This repository contains everything I learn during my Web Development journey.
 
-Example:
+The goal is not just to complete a course, but to build a strong understanding of web technologies through:
+
+- 📖 Well-structured notes
+- 💻 Practice code
+- 🧪 Experiments
+- 🎯 Mini projects
+- 🚀 Real-world applications
+
+Every topic is organized so that future revision becomes quick and easy.
+
+---
+
+# 🗂 Repository Structure
+
+```
+Web-Dev-Journey/
+│
+├── 📁 01_HTML/
+│   ├── 📁 Notes/
+│   ├── 📁 indexes/
+│   ├── script1.js
+│   ├── style1.css
+│   └── README.md
+│
+├── 📁 02_CSS/
+│
+├── 📁 03_JavaScript/
+│
+├── 📁 04_Projects/
+│
+└── README.md
+```
+
+---
+
+# 📌 Learning Roadmap
+
+- ✅ HTML
+- ⏳ CSS
+- ⏳ JavaScript
+- ⏳ Responsive Design
+- ⏳ Git & GitHub
+- ⏳ Bootstrap
+- ⏳ Tailwind CSS
+- ⏳ React
+- ⏳ Backend Basics
+- ⏳ Full Stack Projects
+
+---
+
+# 📂 Folder Organization
+
+Each technology folder follows a simple structure.
 
 ```
 01_HTML/
-02_CSS/
-03_JavaScript/
-04_Bootstrap/
+│
+├── Notes/
+│     ├── note1.md
+│     ├── note2.md
+│     ├── note3.md
+│     └── ...
+│
+├── indexes/
+│     ├── index1.html
+│     ├── index2.html
+│     ├── index3.html
+│     └── ...
+│
+├── style1.css
+├── script1.js
+└── README.md
 ```
 
 ---
 
-# 📝 File Naming Convention
+# 📖 Notes
 
-For every lecture or concept:
+Every topic contains:
 
-```
-index1.html
-style1.css
-script1.js
-note1.md
-```
+- Easy explanations
+- Important concepts
+- Examples
+- Best practices
+- Quick revision
+- Interview questions
 
-Next lecture:
-
-```
-index2.html
-style2.css
-script2.js
-note2.md
-```
-
-This keeps every lesson organized and easy to revisit.
+The notes are written in a beginner-friendly format for quick revision.
 
 ---
 
-# 📚 Notes
+# 💻 Practice
 
-Every concept has its own dedicated Markdown notes.
+Every concept is accompanied by code examples.
 
-Example:
-
-```
-note1.md
-note2.md
-note3.md
-```
-
-Each note contains:
-
-- 📌 Concept Explanation
-- 💡 Syntax
-- 🧠 Important Points
-- ⚠️ Common Mistakes
-- ✅ Best Practices
-- 🎯 Interview Questions
-- 🔥 Quick Revision
-
----
-
-# 🚀 Learning Roadmap
-
-- [x] HTML Basics
-- [ ] CSS
-- [ ] Flexbox
-- [ ] Grid
-- [ ] Responsive Design
-- [ ] JavaScript
-- [ ] DOM
-- [ ] ES6+
-- [ ] Projects
-- [ ] Bootstrap
-- [ ] React
-- [ ] Node.js
-- [ ] Express.js
-- [ ] MongoDB
-- [ ] Full Stack Projects
+This repository focuses on learning by building instead of just reading theory.
 
 ---
 
 # 🎯 Goals
 
-- Learn Web Development from scratch.
-- Write clean and readable code.
-- Maintain high-quality notes.
-- Build real-world projects.
-- Strengthen problem-solving skills.
-- Upload progress regularly on GitHub.
+- Complete Full Stack Web Development
+- Build strong HTML, CSS & JavaScript fundamentals
+- Create responsive websites
+- Build real-world projects
+- Maintain clean GitHub documentation
+- Improve problem-solving skills
 
 ---
 
-# 📌 Progress
+# 📊 Current Progress
 
-| Module | Status |
-|---------|--------|
-| HTML | 🟢 In Progress |
-| CSS | ⏳ Coming Soon |
-| JavaScript | ⏳ Coming Soon |
-| React | ⏳ Coming Soon |
-| Backend | ⏳ Coming Soon |
-| Projects | ⏳ Coming Soon |
+| Technology | Progress |
+|------------|----------|
+| HTML | 🟩 In Progress |
+| CSS | ⬜ Not Started |
+| JavaScript | ⬜ Not Started |
+| React | ⬜ Not Started |
+| Backend | ⬜ Not Started |
 
 ---
 
-# 💻 Technologies
+# 🛠 Tech Stack
 
 - HTML5
 - CSS3
-- JavaScript (ES6+)
-- Bootstrap
-- React
-- Node.js
-- Express.js
-- MongoDB
+- JavaScript
 - Git
 - GitHub
 - VS Code
 
 ---
 
-# 📅 Updates
+# ⭐ Repository Highlights
 
-This repository is updated regularly as I continue my learning journey.
+✔ Beginner Friendly
 
-Every new lecture includes:
+✔ Well Organized
 
-- Source Code
-- Practice Files
-- Well-Structured Notes
-- Mini Projects (when applicable)
+✔ Structured Notes
 
----
+✔ Practice Codes
 
-# ⭐ Why This Repository?
+✔ Regular Updates
 
-This repository serves as my personal learning archive and documentation. It helps me:
+✔ Easy Revision
 
-- Revise concepts quickly
-- Track learning progress
-- Organize code efficiently
-- Build a strong GitHub portfolio
+✔ Clean Folder Structure
 
 ---
 
-# 📈 Current Status
+# 📈 Progress Philosophy
 
-```
-HTML         ███░░░░░░░
-CSS          ░░░░░░░░░░
-JavaScript   ░░░░░░░░░░
-React        ░░░░░░░░░░
-Backend      ░░░░░░░░░░
-Projects     ░░░░░░░░░░
-```
+> Learn → Practice → Revise → Build → Repeat
+
+Consistency beats intensity.
 
 ---
 
-# 📬 Connect
+<div align="center">
 
-If you're also learning Web Development, feel free to explore the repository, learn together, and grow step by step.
+## 🌟 Thanks for visiting!
 
----
-
-## ⭐ If you find this repository useful, consider giving it a Star!
+⭐ If you like this repository, don't forget to star it.
 
 Happy Coding! 🚀
+
+</div>
