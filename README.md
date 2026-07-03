@@ -48,8 +48,9 @@ Web-Dev-Journey/
 │
 ├── 📁 03_JavaScript/
 │
-├── 📁 04_Projects/
+├── 📁 04_Practice/
 │
+├── 📁 05_Projects/
 └── README.md
 ```
 
