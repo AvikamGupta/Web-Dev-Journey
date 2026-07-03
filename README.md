@@ -40,17 +40,14 @@ Web-Dev-Journey/
 ├── 📁 01_HTML/
 │   ├── 📁 Notes/
 │   ├── 📁 indexes/
-│   ├── script1.js
-│   ├── style1.css
+|   ├── 📁Practice/
 │   └── README.md
 │
 ├── 📁 02_CSS/
 │
 ├── 📁 03_JavaScript/
 │
-├── 📁 04_Practice/
-│
-├── 📁 05_Projects/
+├── 📁 04_Projects/
 └── README.md
 ```
 
@@ -90,8 +87,6 @@ Each technology folder follows a simple structure.
 │     ├── index3.html
 │     └── ...
 │
-├── style1.css
-├── script1.js
 └── README.md
 ```
 
