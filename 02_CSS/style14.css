@@ -1,0 +1,68 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>css selectors</title>
+    <style>
+        /* class selector */
+        .red{
+            background-color: red;
+        }
+        /* ID selector */
+        #yellow{
+            background-color: yellow;
+        }
+        /* child selectors */
+        div > p{
+            color:white;
+            background-color: blue;
+        }
+        /* this is my descendent selector now child selector had no existence */
+        div p{
+            color: red;
+            background-color: yellow;
+        }
+        /* universal selector */
+        *{
+            margin:0;
+            padding: 0;
+        }
+        /* Pseudo selector */
+        a:visited{
+            color: yellow;
+        }
+        a :link{
+            color: black;
+        }
+        a:active
+        {
+          background-color: red;
+        }
+        a:hover
+        {
+            background-color: aqua;
+        }
+        p:first-child
+        {
+            /* places where p is first child this tag will be applied */
+            background-color: aqua;
+        }
+    </style>
+</head>
+<body>
+    <main>
+        <p>I am first child</p>
+        <p>i am second child</p>
+    </main>
+    <div class="red">
+        i am a div.
+        <p>I am a paragraph inside div </p>
+    </div>
+    <div id="yellow">
+        i am another div
+        <p>so i created this para while learning about descendent selector</p>
+    </div>
+    <a href="http://www.google.com">Go to google</a>
+</body>
+</html>
