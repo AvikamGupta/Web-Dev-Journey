@@ -129,13 +129,13 @@ This repository focuses on learning by building instead of just reading theory.
 
 # 📊 Current Progress
 
-| Technology | Progress |
-|------------|----------|
-| HTML | 🟩 In Progress |
-| CSS | ⬜ Not Started |
+| 🚀 Technology | 📈 Status |
+|--------------|-----------|
+| HTML | ✅ Completed |
+| CSS | 🟨 In Progress (Day 19) |
 | JavaScript | ⬜ Not Started |
-| React | ⬜ Not Started |
-| Backend | ⬜ Not Started |
+| React.js | ⬜ Not Started |
+| Backend Development | ⬜ Not Started |
 
 ---
 
